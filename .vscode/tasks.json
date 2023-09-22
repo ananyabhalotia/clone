@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "amazonclone",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - amazonclone",
+			"detail": "react-scripts build"
+		}
+	]
+}
